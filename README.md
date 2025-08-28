@@ -2,7 +2,7 @@
 
 <body>
 
-<h1> soy Homero chino</h1>
+<h1> Soy Homero chino</h1>
   
 </body>
 
